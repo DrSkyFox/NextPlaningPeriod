@@ -1,0 +1,4 @@
+авг. 02, 2021 6:07:10 PM NextPlan doStatement
+WARNING: Dynamic SQL Error; SQL error code = -204; Table unknown; GUEST; At line 1, column 21 [SQLState:42S02, ISC error code:335544580]
+авг. 02, 2021 6:07:31 PM NextPlan doStatement
+INFO: org.firebirdsql.jdbc.FBResultSet@6483f5ae
